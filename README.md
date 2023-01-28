@@ -1,6 +1,6 @@
 ## ✨HWANG HYUN JIN✨
 
-![nowjiin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nowjiin&?theme=tokyonight_icons=true)
+![nowjiin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nowjiin&show_icons=true&theme=tokyonight)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkskekfkakqjqtk117)](https://solved.ac/rkskekfkakqjqtk117/)
 
@@ -17,6 +17,5 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 ## :mailbox_with_mail: Contacts
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://solid-coding.tistory.com/)](https://solid-coding.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hwanghyunjin117@gmail.com)](mailto:hwanghyunjin117@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:hyunjin117@naver.com)](mailto:hyunjin117@naver.com)
