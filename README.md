@@ -16,6 +16,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=White)
 
+<!--
 ## :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hwanghyunjin117@gmail.com)](mailto:hwanghyunjin117@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:hyunjin117@naver.com)](mailto:hyunjin117@naver.com)
+*/ -->
