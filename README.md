@@ -1,6 +1,6 @@
 ## ✨HYUN JIN✨
 
-![nowjiin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nowjiin&show_icons=true&theme=tokyonight)
+![GENIE's GitHub stats](https://github-readme-stats.vercel.app/api?username=nowjiin&show_icons=true&theme=tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkskekfkakqjqtk117)](https://solved.ac/rkskekfkakqjqtk117/)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnowjiin&count_bg=%23005DBE&title_bg=%23000EB2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
