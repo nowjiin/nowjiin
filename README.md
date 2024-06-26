@@ -1,7 +1,7 @@
 ## ✨HYUN JIN✨
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkskekfkakqjqtk117)](https://solved.ac/rkskekfkakqjqtk117/)
-
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkskekfkakqjqtk117)](https://solved.ac/rkskekfkakqjqtk117/) -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nowgenie)](https://solved.ac/nowgenie/)
 
 ## Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
