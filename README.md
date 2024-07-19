@@ -1,4 +1,4 @@
-## ✨HYUN JIN✨
+## ✨HYUN JIN / nowjin✨
 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkskekfkakqjqtk117)](https://solved.ac/rkskekfkakqjqtk117/) -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nowgenie)](https://solved.ac/nowgenie/)
