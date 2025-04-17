@@ -2,7 +2,8 @@
 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkskekfkakqjqtk117)](https://solved.ac/rkskekfkakqjqtk117/) -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nowgenie)](https://solved.ac/nowgenie/)
-## Youtube
+
+## 🎥 Youtube 소개
 <table>
   <tr>
     <td align="center">
@@ -19,12 +20,21 @@
       </a>
       <p>해커톤 수상 후 진행된 인터뷰 영상입니다.</p>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://youtu.be/Vd_BM6sGyNw?si=9YW4U0mt2Djb0AvT" target="_blank">
         <img src="https://img.youtube.com/vi/Vd_BM6sGyNw/0.jpg" width="250"/><br/>
         <strong>실리콘밸리 해커톤 Teaser</strong>
       </a>
       <p>실리콘밸리 해커톤 티저 영상입니다.</p>
+    </td>
+    <td align="center">
+      <a href="https://youtu.be/cuYWa8_6k_U?si=Ad_IoWh4UkhmRIWJ" target="_blank">
+        <img src="https://img.youtube.com/vi/cuYWa8_6k_U/0.jpg" width="250"/><br/>
+        <strong>실리콘밸리 해커톤 Ep.1</strong>
+      </a>
+      <p>실리콘밸리 해커톤 Episode 1편 입니다 ☺️ </p>
     </td>
   </tr>
 </table>
