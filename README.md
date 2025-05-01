@@ -38,12 +38,14 @@
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
+    <td align="center">
       <a href="https://youtu.be/WlxfWI87nUE?si=sK8DdUBdgK_dvSp8" target="_blank">
         <img src="https://img.youtube.com/vi/WlxfWI87nUE/0.jpg" width="250"/><br/>
         <strong>실리콘밸리 해커톤 Ep.2</strong>
       </a>
       <p>실리콘밸리 해커톤 Episode 2편 입니다 🎥</p>
+    </td>
+    <td align="center">
     </td>
   </tr>
 </table>
