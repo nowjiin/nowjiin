@@ -30,8 +30,8 @@
       <p>실리콘밸리 해커톤 티저 영상입니다.</p>
     </td>
     <td align="center">
-      <a href="https://www.youtube.com/watch?v=M-ibWegOQQ0" target="_blank">
-        <img src="https://img.youtube.com/vi/cuYWa8_6k_U/0.jpg" width="250"/><br/>
+      <a href="https://youtu.be/SE5nA75j_q8?si=2dGPwfNeFn6nxy5W" target="_blank">
+        <img src="https://img.youtube.com/vi/M-ibWegOQQ0/maxresdefault.jpg" width="250"/><br/>
         <strong>실리콘밸리 해커톤 Ep.1</strong>
       </a>
       <p>실리콘밸리 해커톤 Episode 1편 입니다 ☺️ </p>
@@ -40,7 +40,7 @@
   <tr>
     <td align="center">
       <a href="https://www.youtube.com/watch?v=SE5nA75j_q8" target="_blank">
-        <img src="https://img.youtube.com/vi/WlxfWI87nUE/0.jpg" width="250"/><br/>
+        <img src="https://img.youtube.com/vi/SE5nA75j_q8/maxresdefault.jpg" width="250"/><br/>
         <strong>실리콘밸리 해커톤 Ep.2</strong>
       </a>
       <p>실리콘밸리 해커톤 Episode 2편 입니다 🎥</p>
