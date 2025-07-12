@@ -27,7 +27,7 @@
         <img src="https://img.youtube.com/vi/Vd_BM6sGyNw/0.jpg" width="250"/><br/>
         <strong>실리콘밸리 해커톤 Teaser</strong>
       </a>
-      <p>실리콘밸리 해커톤 티저 영상입니다.</p>
+      <p>실리콘밸리 해커톤 티저 영상입니다</p>
     </td>
     <td align="center">
       <a href="https://youtu.be/SE5nA75j_q8?si=2dGPwfNeFn6nxy5W" target="_blank">
