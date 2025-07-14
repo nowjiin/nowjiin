@@ -46,10 +46,23 @@
       <p>실리콘밸리 해커톤 Episode 2편 입니다 🎥</p>
     </td>
     <td align="center">
+      <a href="https://youtu.be/etL4sFxOlw0?si=ywZNqGx5sf4vy_Fi" target="_blank">
+        <img src="https://img.youtube.com/vi/etL4sFxOlw0/maxresdefault.jpg" width="250"/><br/>
+        <strong>실리콘밸리 해커톤 Ep.3</strong>
+      </a>
+      <p>실리콘밸리 해커톤 Episode 3편입니다 🎬</p>
     </td>
   </tr>
   <tr>
+    <td align="center">
+      <a href="https://youtu.be/k5m5ZGBvhSM?si=rvst0RpkOZzqVMyK" target="_blank">
+        <img src="https://img.youtube.com/vi/k5m5ZGBvhSM/maxresdefault.jpg" width="250"/><br/>
+        <strong>실리콘밸리 해커톤 Ep.4</strong>
+      </a>
+      <p>실리콘밸리 해커톤 Episode 4편입니다 🎉</p>
+    </td>
   </tr>
+
 </table>
 
 
